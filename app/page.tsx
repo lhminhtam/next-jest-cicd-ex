@@ -6,7 +6,7 @@ export default function Page() {
   return (
     <>
       <h1>App Router</h1>
-      <p>HoleTex</p>
+      <p>Hole Tex</p>
       <p>Welcome to HCM</p>
     </>
   );
